@@ -8,7 +8,9 @@ import android.widget.ListView;
 public class MainActivity extends AppCompatActivity {
     ListView simplelist;
     String arraylist[]={"India","USA","Germany","UAE","Nepal","Switzerland","London","Canada",
-            "Germany","France","south koria","South africa","Japan","China"};
+            "Germany","France","south koria","South africa","Japan","China","Austrailia",
+            "Iceland","Kazakhsthan","Loas","Afghanistan","Bahamas","El Salvador","Poland",
+            "urkey","Liechtenstein","Monaco","Mexico","Hungary"};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
